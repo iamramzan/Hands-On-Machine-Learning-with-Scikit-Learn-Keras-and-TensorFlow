@@ -23,25 +23,25 @@
 
 ## Part I. The Fundamentals of Machine Learning (1-275)
 ### 1.	The Machine Learning Landscape (1-33)
-1.1 What Is Machine Learning?
-1.2 Why Use Machine Learning?
-1.3 Examples of Applications
-1.4 Types of Machine Learning Systems
-1.4.1 Supervised/Unsupervised Learning
-1.4.2 Batch and Online Learning
-1.4.3 Instance-Based Versus Model-Based Learning
-1.5 Main Challenges of Machine Learning
-1.5.1 Insufficient Quantity of Training Data
-1.5.2 Nonrepresentative Training Data
-1.5.3 Poor-Quality Data
-1.5.4 Irrelevant Features
-1.5.5 Overfitting the Training Data
-1.5.6 Underfitting the Training Data
-1.5.7 Stepping Back
-1.6 Testing and Validating
-1.6.1 Hyperparameter Tuning and Model Selection
-1.6.2 Data Mismatch
-1.7 Exercises
+- 1.1 What Is Machine Learning?
+- 1.2 Why Use Machine Learning?
+- 1.3 Examples of Applications
+- 1.4 Types of Machine Learning Systems
+- 1.4.1 Supervised/Unsupervised Learning
+- 1.4.2 Batch and Online Learning
+- 1.4.3 Instance-Based Versus Model-Based Learning
+- 1.5 Main Challenges of Machine Learning
+- 1.5.1 Insufficient Quantity of Training Data
+- 1.5.2 Nonrepresentative Training Data
+- 1.5.3 Poor-Quality Data
+- 1.5.4 Irrelevant Features
+- 1.5.5 Overfitting the Training Data
+- 1.5.6 Underfitting the Training Data
+- 1.5.7 Stepping Back
+- 1.6 Testing and Validating
+- 1.6.1 Hyperparameter Tuning and Model Selection
+- 1.6.2 Data Mismatch
+- 1.7 Exercises
 
 ### 2.	End-to-End Machine Learning Project (35-84)
 2.1 Working with Real Data
